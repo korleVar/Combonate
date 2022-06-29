@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="34" viewBox="0 0 32 34">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 41 43">
+      <image width="41" height="43" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAArCAYAAADlqKH9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGASURBVFhH7dkBioMwEIXh7J7Eo3gzvYneRG+iN3HzaAZSm8TJzES64A9D1SJ+KBWxP4fPfXm/4fOre5BWPUirish5nt26rmGtfTjWOI5hLQq3oFTTNOHWdHRddyzLEra2C8fA8TDDMIStr5JIAtK0hsZAmhiaRG7b9rFTK2gKiImPlb3cd0A5QJRFopZQLhAVkagFtAaILpHIEloLRCwksoBKgIiNRBqoFIiqkEgC1QBRNRLVQLVAJEIiDtQCiMRIVIJaAZEKiXLQ8zaMBIjUSJSCnkcKRCZIVIJqgMjsyXzf97D0nr/0YUlRwKrK/UhocrcnbmrkFZBGA1Uhc0Bs59xHuYmRJSBlBRUhOUDKAlqNrAFSWmgVUgKkNFA2UgOkpFAW0gJISaCXSEsgVQstIlsAqRpoFtkSSHGhSeQdQIoDTT4FpV73+Z1c3/dhzS4Pch4a1l7hiertqSpgP8JbLXyNaXEGz8VnFG/14oo/HEDvAFKAnoHo+R/Hqn+AdO4PGO5k/7LWkqsAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <rect id="Изображение_8" data-name="Изображение 8" width="32" height="34" fill="url(#pattern)"/>
+</svg>
